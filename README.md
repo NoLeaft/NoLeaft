@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @NoLeaft
 - 👀 I’m interested in Coding, Game Design, Online Games
 - 🌱 I’m currently learning Assembly Language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Relatively Dying
 
 <!---
